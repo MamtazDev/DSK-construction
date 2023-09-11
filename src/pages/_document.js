@@ -13,8 +13,8 @@ class MyDocument extends Document {
           {/* favicon begin */}
           {/* <link rel="apple-touch-icon" sizes="76x76" href="/images/DSK_logo.ico" /> */}
           {/* <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" /> */}
-          {/* <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" /> */}
-          <link rel="icon" type="image/x-icon" href="/images/DSK_logo2.ico"/>
+          <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" />
+          {/* <link rel="icon" type="image/x-icon" href="/images/icons8-favicon-color-96.png"/> */}
           {/* <link rel="manifest" href="/favicon/manifest.json" /> */}
           <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />

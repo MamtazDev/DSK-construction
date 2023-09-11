@@ -8,7 +8,7 @@ category:
 #full details
 author:
     name: "Jane Meldrum"
-    avatar: "/img/blog-author-img.jpg"
+    avatar: "/DSK_images/blog-author-img.jpg"
 
 gallery:
     enabled: 1
