@@ -211,7 +211,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
             <p className="des">We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies.</p>
             
             <figure>
-              <img src="/img/project1.jpeg" alt="image" />
+              <img src="/DSK_images/project1.jpeg" alt="image" />
             </figure>
 
             <h3>Get in touch</h3>

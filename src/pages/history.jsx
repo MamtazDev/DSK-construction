@@ -46,7 +46,7 @@ const History = () => {
             <div className="col-lg-12">
               <div className="h-box">
                 <figure>
-                  <img src="/img/project1.jpeg" alt="History Image Six" />
+                  <img src="/DSK_images/project1.jpeg" alt="History Image Six" />
                 </figure>
                 <h2>2004</h2>
                 <p>The Career Start program officially launches, recruiting college graduates into robust construction training rotations.</p>

@@ -40,7 +40,7 @@ slider:
         - image: /img/project7.jpeg
           alt: "image"
 
-        - image: /img/project1.jpeg
+        - image: /DSK_images/project1.jpeg
           alt: "image"
 
         - image: /DSK_images/project3.jpeg
