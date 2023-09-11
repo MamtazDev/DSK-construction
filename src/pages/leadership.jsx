@@ -12,7 +12,7 @@ const Leadership = () => {
   const Content = {
     "team": [
         {
-          "image": "/img/team-4.jpg",
+          "image": "/DSK_images/team-4.jpg",
           "name": "Marc Chiasson",
           "role": "Vice President, Civil Infrastructure",
           "tel": "(+120) 50 318 47 07",
@@ -31,7 +31,7 @@ const Leadership = () => {
           "link": "/team/team-4"
       },
       {
-          "image": "/img/team-5.jpg",
+          "image": "/DSK_images/team-5.jpg",
           "name": "Ethan Keith",
           "role": "Vice President, Civil Infrastructure",
           "tel": "(+180) 50 318 47 07",
@@ -50,7 +50,7 @@ const Leadership = () => {
           "link": "/team/team-5"
       },
       {
-          "image": "/img/team-6.jpg",
+          "image": "/DSK_images/team-6.jpg",
           "name": "Dennis Tyler",
           "role": "Vice President, Civil Infrastructure",
           "tel": "(+180) 50 318 47 07",
@@ -69,7 +69,7 @@ const Leadership = () => {
           "link": "/team/team-6"
       },
       {
-          "image": "/img/team-7.jpg",
+          "image": "/DSK_images/team-7.jpg",
           "name": "Henry Nathan",
           "role": "Vice President, Civil Infrastructure",
           "tel": "(+180) 50 318 47 07",

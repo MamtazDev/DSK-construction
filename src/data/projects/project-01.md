@@ -1,7 +1,7 @@
 ---
 #preview
 title: Project Horizon Redevelopment
-image: /img/project1.jpeg
+image: /DSK_images/project1.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "United States"
 dates: "1999-2000"
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /DSK_images/project2.jpeg
           alt: "image"
 
-        - image: /img/project3.jpeg
+        - image: /DSK_images/project3.jpeg
           alt: "image"
 
-        - image: /img/project4.jpeg
+        - image: /DSK_images/project4.jpeg
           alt: "image"
         
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
 ---
 

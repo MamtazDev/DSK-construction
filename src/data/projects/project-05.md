@@ -1,7 +1,7 @@
 ---
 #preview
 title: Atmosphere Housing
-image: /img/project5.jpeg
+image: /DSK_images/project5.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "London"
 dates: "1999-2000"
@@ -37,7 +37,7 @@ details:
 
 slider: 
     items:
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
 
         - image: /img/project6.jpeg

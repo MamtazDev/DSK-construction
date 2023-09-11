@@ -1,7 +1,7 @@
 ---
 #preview
 title: Life Science Center
-image: /img/project8.jpeg
+image: /DSK_images/project8.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Sydney"
 dates: "2003-2006"
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
 
         - image: /img/project1.jpeg
           alt: "image"
 
-        - image: /img/project2.jpeg
+        - image: /DSK_images/project2.jpeg
           alt: "image"
         
-        - image: /img/project3.jpeg
+        - image: /DSK_images/project3.jpeg
           alt: "image"
 ---
 

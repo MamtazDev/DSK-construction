@@ -1,7 +1,7 @@
 ---
 #preview
 title: Home building renovation
-image: /img/project7.jpeg
+image: /DSK_images/project7.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Melbourne"
 dates: "1999-2001"
@@ -46,7 +46,7 @@ slider:
         - image: /img/project1.jpeg
           alt: "image"
         
-        - image: /img/project2.jpeg
+        - image: /DSK_images/project2.jpeg
           alt: "image"
 ---
 

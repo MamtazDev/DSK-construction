@@ -163,7 +163,7 @@ const Contact = () => {
                 <div className="bio">
                     <div className="data">
                         <figure>
-                            <img className="author" src="/img/team-1.jpg" alt="Bio Image" />
+                            <img className="author" src="/DSK_images/team-1.jpg" alt="Bio Image" />
                         </figure>
                         <h3>Walimes Jonnie</h3>
                         <p>Director of Constro Company</p>

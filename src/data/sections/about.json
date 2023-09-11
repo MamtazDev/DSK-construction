@@ -1,10 +1,10 @@
 {
     "image1": {
-        "url": "/img/about-one.jpeg",
+        "url": "/DSK_images/about-one.jpeg",
         "alt": "Image One"
     },
     "image2": {
-        "url": "/img/about-two.jpeg",
+        "url": "/DSK_images/about-two.jpeg",
         "alt": "Image One"
     },
     "title": "Constro Provides a full range of services",

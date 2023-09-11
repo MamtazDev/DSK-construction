@@ -1,7 +1,7 @@
 ---
 #preview
 title: Patient Support Centre
-image: /img/project3.jpeg
+image: /DSK_images/project3.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "New York"
 dates: "1994-1999"
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project1.jpeg
+        - image: /DSK_images/project1.jpeg
           alt: "image"
 
-        - image: /img/project3.jpeg
+        - image: /DSK_images/project3.jpeg
           alt: "image"
 
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
         
-        - image: /img/project7.jpeg
+        - image: /DSK_images/project7.jpeg
           alt: "image"
 ---
 

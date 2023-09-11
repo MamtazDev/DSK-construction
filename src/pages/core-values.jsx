@@ -71,36 +71,36 @@ const CoreValues = () => {
           <div className="row g-0">
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-1.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-1.jpeg" alt="Gallery 1" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-1.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-1.jpeg" alt="Gallery 1" />
                 </a>
               </figure>
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-2.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-2.jpeg" alt="Gallery 2" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-2.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-2.jpeg" alt="Gallery 2" />
                 </a>
               </figure>
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-3.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-3.jpeg" alt="Gallery 3" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-3.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-3.jpeg" alt="Gallery 3" />
                 </a>
               </figure>
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-4.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-4.jpeg" alt="Gallery 4" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-4.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-4.jpeg" alt="Gallery 4" />
                 </a>
               </figure>
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-5.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-5.jpeg" alt="Gallery 5" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-5.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-5.jpeg" alt="Gallery 5" />
                 </a>
               </figure>
             </div>

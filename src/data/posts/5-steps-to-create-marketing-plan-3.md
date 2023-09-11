@@ -1,7 +1,7 @@
 ---
 title: '5 Steps to Create an Outstanding Marketing Plan'
 date: '2022-03-02'
-image: "/img/blog1.jpeg"
+image: "/DSK_images/blog1.jpeg"
 category:
     - Marketing
 

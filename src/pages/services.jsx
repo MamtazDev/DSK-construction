@@ -53,7 +53,7 @@ const Services = (props) => {
               <Tab.Content>
                 <Tab.Pane eventKey="tab-service-0" title="General Contracting">
                   <figure>
-                    <img className="w-100" src="/img/service3.jpeg" alt="Services Nav Image 1" />
+                    <img className="w-100" src="/DSK_images/service3.jpeg" alt="Services Nav Image 1" />
                     <figcaption>
                       <h3>General Contracting</h3>
                       <p>One of the most critical stages of  the construction process is the commissioning and closeout.</p>
@@ -111,7 +111,7 @@ const Services = (props) => {
         <div className="container-fluid g-0">
           <div className="row">
             <figure>
-              <img className="w-100" src="/img/construction.jpeg" alt="Video PopUp Image" />
+              <img className="w-100" src="/DSK_images/construction.jpeg" alt="Video PopUp Image" />
             </figure>
             <a className="video-play-btn" onClick={() => setOpen(true)} style={{"cursor": "pointer"}}>
               <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="35" height="56" viewBox="0 0 35 56"> <defs> <clipPath id="clip-video_arrow"> <rect width="35" height="56"/> </clipPath> </defs> <g id="video_arrow" data-name="video arrow" clipPath="url(#clip-video_arrow)"> <path id="Shape_1" data-name="Shape 1" d="M1362,5000.8,1327,4972V5027Z" transform="translate(-1326.998 -4971.996)" fill="rgba(0,0,0,0)"/> <path id="Shape_1_-_Outline" data-name="Shape 1 - Outline" d="M1333,5015.017l19.29-14.437L1333,4984.7v30.313M1327,5027V4972l35,28.807Z" transform="translate(-1326.998 -4971.996)"/> </g> </svg>

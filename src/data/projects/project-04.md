@@ -1,7 +1,7 @@
 ---
 #preview
 title: The Stella & Bluewater
-image: /img/project4.jpeg
+image: /DSK_images/project4.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Dubai"
 dates: "2004-2005"
@@ -37,13 +37,13 @@ details:
 
 slider: 
     items:
-        - image: /img/project3.jpeg
+        - image: /DSK_images/project3.jpeg
           alt: "image"
 
-        - image: /img/project4.jpeg
+        - image: /DSK_images/project4.jpeg
           alt: "image"
 
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
         
         - image: /img/project6.jpeg

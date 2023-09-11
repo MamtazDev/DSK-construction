@@ -25,19 +25,19 @@ description0:
 gallery: 
   enabled: 1
   items:
-      - image: /img/gallery-2.jpeg
+      - image: /DSK_images/gallery-2.jpeg
         alt: "image"
 
-      - image: /img/gallery-1.jpeg
+      - image: /DSK_images/gallery-1.jpeg
         alt: "image"
 
-      - image: /img/gallery-3.jpeg
+      - image: /DSK_images/gallery-3.jpeg
         alt: "image"
 
-      - image: /img/gallery-4.jpeg
+      - image: /DSK_images/gallery-4.jpeg
         alt: "image"
 
-      - image: /img/gallery-5.jpeg
+      - image: /DSK_images/gallery-5.jpeg
         alt: "image"          
 
 checklist:

@@ -4,7 +4,7 @@ const Preloader = () => {
   return (
     <div className="preloader"> 
         <figure>
-            <img src={appData.settings.preloader.image} alt={appData.settings.preloader.alt} /> 
+            <img style={{ height: "57px", width: "90px" }} src={appData.settings.preloader.image} alt={appData.settings.preloader.alt} /> 
         </figure>
     </div>
   );

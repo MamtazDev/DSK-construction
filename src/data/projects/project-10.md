@@ -1,7 +1,7 @@
 ---
 #preview
 title: IT Business Center
-image: /img/project10.jpeg
+image: /DSK_images/project10.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Australia"
 dates: "2009-2010"
@@ -37,16 +37,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project10.jpeg
+        - image: /DSK_images/project10.jpeg
           alt: "image"
 
-        - image: /img/project2.jpeg
+        - image: /DSK_images/project2.jpeg
           alt: "image"
 
         - image: /img/project8.jpeg
           alt: "image"
         
-        - image: /img/project7.jpeg
+        - image: /DSK_images/project7.jpeg
           alt: "image"
 ---
 

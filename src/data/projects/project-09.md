@@ -1,7 +1,7 @@
 ---
 #preview
 title: Charles Dedham House
-image: /img/project2.jpeg
+image: /DSK_images/project2.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 location: "Melbourne"
 dates: "1995-1997"
@@ -43,10 +43,10 @@ slider:
         - image: /img/project1.jpeg
           alt: "image"
 
-        - image: /img/project3.jpeg
+        - image: /DSK_images/project3.jpeg
           alt: "image"
         
-        - image: /img/project5.jpeg
+        - image: /DSK_images/project5.jpeg
           alt: "image"
 ---
 

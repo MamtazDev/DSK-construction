@@ -31,7 +31,7 @@ const About = () => {
                   <p>We are resolute in our mission to not only make a difference to the lives of people today but to also leave a legacy for future generations and the planet we live in. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
                 </div>
                 <figure>
-                  <img className="w-100" src="/img/gallery-1.jpeg" alt="About Image One" />
+                  <img className="w-100" src="/DSK_images/gallery-1.jpeg" alt="About Image One" />
                 </figure>
               </div>
             </div>
@@ -48,7 +48,7 @@ const About = () => {
                   </ul>
                 </div>
                 <figure>
-                  <img className="w-100" src="/img/gallery-3.jpeg" alt="About Image Two" />
+                  <img className="w-100" src="/DSK_images/gallery-3.jpeg" alt="About Image Two" />
                 </figure>
               </div>
             </div>
@@ -70,7 +70,7 @@ const About = () => {
         </div>
         <div className="container">
           <figure style={{"position": "relative", "zIndex": "9"}}>
-            <img className="w-100" src="/img/gallery-2.jpeg" alt="About How It Works" />
+            <img className="w-100" src="/DSK_images/gallery-2.jpeg" alt="About How It Works" />
           </figure>
         </div>
         <div className="container">
@@ -123,7 +123,7 @@ const About = () => {
             <div className="col-lg-6" >
               <div className="data">
                 <figure>
-                  <img className="w-100" src="/img/service2.jpeg" alt="About key Benefits" />
+                  <img className="w-100" src="/DSK_images/service2.jpeg" alt="About key Benefits" />
                 </figure>
               </div>
             </div>

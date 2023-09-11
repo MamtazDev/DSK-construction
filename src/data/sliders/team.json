@@ -3,7 +3,7 @@
     "title": "Meet The Expert Team",
     "items": [
         {
-            "image": "/img/team-3.png",
+            "image": "/DSK_images/team-3.png",
             "name": "Henry Taylor",
             "role": "Head Railway Construction",
             "social": [
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "image": "/img/team-1.png",
+            "image": "/DSK_images/team-1.png",
             "name": "Edward Jeffrey",
             "role": "Finance Department",
             "social": [
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "image": "/img/team-2.png",
+            "image": "/DSK_images/team-2.png",
             "name": "Nicholas Larry",
             "role": "Railway Manager",
             "social": [
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "image": "/img/team-3.png",
+            "image": "/DSK_images/team-3.png",
             "name": "Stephen Jones",
             "role": "Creative Worker",
             "social": [
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "image": "/img/team-1.png",
+            "image": "/DSK_images/team-1.png",
             "name": "Eric Scot",
             "role": "Cheif Railway Construction",
             "social": [
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "image": "/img/team-2.png",
+            "image": "/DSK_images/team-2.png",
             "name": "Alexander Sorloth",
             "role": "Head Railway Construction",
             "social": [
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "image": "/img/team-3.png",
+            "image": "/DSK_images/team-3.png",
             "name": "Jose Tyler",
             "role": "HR Department",
             "social": [
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "image": "/img/team-2.png",
+            "image": "/DSK_images/team-2.png",
             "name": "Henry Vincent",
             "role": "Construction Manager",
             "social": [

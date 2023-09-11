@@ -2,7 +2,7 @@
 #preview
 title: '10 Content Proofreading Tips to Catch More Avoidable'
 date: '2022-01-02'
-image: "/img/blog2.jpeg"
+image: "/DSK_images/blog2.jpeg"
 category:
     - Copywrighting
 
@@ -20,7 +20,7 @@ gallery:
         - image: /img/gallery-6.jpeg
           alt: "image"
 
-        - image: /img/gallery-5.jpeg
+        - image: /DSK_images/gallery-5.jpeg
           alt: "image"
 
     cols: 3 # 2 or 3

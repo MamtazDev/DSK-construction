@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "image": "img/slide1.jpeg",
+            "image": "DSK_images/slide1.jpeg",
             "title": "Create the Building You Want Here",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
@@ -10,7 +10,7 @@
             }
         },
         {
-            "image": "img/project5.jpeg",
+            "image": "DSK_images/project5.jpeg",
             "title": "A Better Way To Build Your Dreams",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
@@ -19,7 +19,7 @@
             }
         },
         {
-            "image": "img/articles6.jpeg",
+            "image": "DSK_images/articles6.jpeg",
             "title": "DSK Innovative & Industrial Solutions",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {

@@ -1,7 +1,7 @@
 ---
 title: 'Play to Your Strengths and Supercharge Your Business'
 date: '2022-02-02'
-image: "/img/blog3.jpeg"
+image: "/DSK_images/blog3.jpeg"
 category:
     - Art
 
@@ -19,7 +19,7 @@ gallery:
         - image: /img/gallery-6.jpeg
           alt: "image"
 
-        - image: /img/gallery-5.jpeg
+        - image: /DSK_images/gallery-5.jpeg
           alt: "image"
 
     cols: 3 # 2 or 3
