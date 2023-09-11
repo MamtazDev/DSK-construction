@@ -218,7 +218,7 @@ const ProductDetail = () => {
                               <div className="comment">
                                 <div className="c-img">
                                   <figure>
-                                    <img src="/img/comment-img-1.jpg" alt="Comment Image One" />
+                                    <img src="/DSK_images/comment-img-1.jpg" alt="Comment Image One" />
                                   </figure>
                                 </div>
                                 <div className="c-data">

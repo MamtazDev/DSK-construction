@@ -13,10 +13,10 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/gallery-7.jpeg
+        - image: /DSK_images/gallery-7.jpeg
           alt: "image"
 
-        - image: /img/gallery-6.jpeg
+        - image: /DSK_images/gallery-6.jpeg
           alt: "image"
 
         - image: /DSK_images/gallery-5.jpeg

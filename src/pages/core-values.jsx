@@ -106,15 +106,15 @@ const CoreValues = () => {
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-6.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-6.jpeg" alt="Gallery 6" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-6.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-6.jpeg" alt="Gallery 6" />
                 </a>
               </figure>
             </div>
             <div className="col-lg-3 col-md-6 col-sm-6">
               <figure>
-                <a data-fancybox="gallery" href="/img/gallery-7.jpeg">
-                  <img className="img-fluid w-100" src="/img/gallery-7.jpeg" alt="Gallery 7" />
+                <a data-fancybox="gallery" href="/DSK_images/gallery-7.jpeg">
+                  <img className="img-fluid w-100" src="/DSK_images/gallery-7.jpeg" alt="Gallery 7" />
                 </a>
               </figure>
             </div>
