@@ -11,10 +11,11 @@ class MyDocument extends Document {
           {/* meta end */}
 
           {/* favicon begin */}
-          <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon.png" />
-          <link rel="icon" type="image/png" sizes="32x32" href="/images/DSK_logo.png" />
-          <link rel="icon" type="image/png" sizes="16x16" href="/images/DSK_logo.png" />
-          <link rel="manifest" href="/favicon/manifest.json" />
+          {/* <link rel="apple-touch-icon" sizes="76x76" href="/images/DSK_logo.ico" /> */}
+          {/* <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" /> */}
+          {/* <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" /> */}
+          <link rel="icon" type="image/x-icon" href="/images/DSK_logo2.ico"/>
+          {/* <link rel="manifest" href="/favicon/manifest.json" /> */}
           <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="#ffffff" />
@@ -25,7 +26,11 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/fontawesome.min.css" />
           <link rel="stylesheet" href="/css/magnific-popup.css" />
           {/* public assets end */}
+          <style>
+      
+          </style>
         </Head>
+
         <body>
           <Main />
           <NextScript />
