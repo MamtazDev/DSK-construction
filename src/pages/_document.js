@@ -9,7 +9,7 @@ class MyDocument extends Document {
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
           {/* meta end */}
-          <link rel="icon" type="image/png" sizes="600x600" href="/images/DSK_logo.png" />
+          <link rel="icon" type="image/png" sizes="600x600" href="/img/favvv.png" />
 
           <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />
