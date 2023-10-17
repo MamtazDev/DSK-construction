@@ -5,7 +5,7 @@
             "title": "Create the Building You Want Here",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
-                "label": "Start Consulting",
+                "label": "Contact Us",
                 "link": "/contact"
             }
         },
@@ -14,8 +14,8 @@
             "title": "A Better Way To Build Your Dreams",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
-                "label": "Estimate Price",
-                "link": "/services"
+                "label": "Contact Us",
+                "link": "/contact"
             }
         },
         {
@@ -23,7 +23,7 @@
             "title": "DSK Innovative & Industrial Solutions",
             "text": "DSK  is a construction and architecture environmentally most responsible for any kinds of themes.",
             "button": {
-                "label": "Start Consulting",
+                "label": "Contact Us",
                 "link": "/contact"
             }
         }
