@@ -14,9 +14,9 @@
                     "title": "Facebook"
                 },
                 {
-                    "link": "https://twitter.com/",
-                    "icon": "fa-brands fa-twitter",
-                    "title": "Twitter"
+                    "link": "https://www.instagram.com/",
+                    "icon": "fa-brands fa-instagram",
+                    "title": "Instagram"
                 }
             ],
             "link": "/team/team-1"
@@ -33,9 +33,9 @@
                     "title": "Facebook"
                 },
                 {
-                    "link": "https://twitter.com/",
-                    "icon": "fa-brands fa-twitter",
-                    "title": "Twitter"
+                    "link": "https://www.instagram.com/",
+                    "icon": "fa-brands fa-instagram",
+                    "title": "Instagram"
                 }
             ],
             "link": "/team/team-2"

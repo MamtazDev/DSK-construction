@@ -215,8 +215,8 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
             </figure>
 
             <h3>Get in touch</h3>
-            <p className="num">(+380) 50 318 47 07</p>
-            <p className="adrs">65 Allerton Street 901 N Pitt Str, Suite 170, VA 22314, USA</p>
+            <p className="num">954 651 0449</p>
+            <p className="adrs">5974 SW 44th Street, Davie, FL 33317</p>
 
             <div className="social-medias">
               {appData.social.map((item, key) => (
