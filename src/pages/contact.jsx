@@ -278,7 +278,7 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h3>Telephone:</h3>
-                      <p>Tel: 954 651 0449</p>
+                      <p>954 651 0449</p>
                     </div>
                   </li>
                   <li>

@@ -48,7 +48,7 @@ const TeamDetail = ( { postData, projects } ) => {
                         <div className="t-sec">
                           <p>Telephone:</p>
                           {typeof postData.tel != "undefined" &&
-                          <span><b>Tel:</b>  {postData.tel}</span>
+                          <span> {postData.tel}</span>
                           }
                           {typeof postData.fax != "undefined" &&
                           <span><b>Fax:</b>  {postData.fax}</span>
