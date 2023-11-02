@@ -105,7 +105,7 @@ module.exports = import("swiper/element/bundle");;
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"settings":{"siteName":"DSK","preloader":{"image":"/images/update_logo.png","alt":"logo"},"formspreeURL":"https://formspree.io/f/your_api_key","mailchimp":{"url":"","key":""}},"header":{"logo":{"image":"/images/update_logo.png","alt":"logo"},"menu":[{"label":"Home","link":"/","children":[]},{"label":"About","link":"/about","children":[]},{"label":"Contact","link":"/contact","children":0}]},"footer":{"logo":{"image":"/images/DSK_logo.png","alt":"logo"},"info":{"address":"5974 SW 44th Street, Davie, FL 33317","tel":"954 651 0449","email":"dannick@dskconst.com"},"copy":"DSK Construction Corp.  © 2023 All Rights Reserved"},"social":[{"link":"https://facebook.com","title":"Facebook"},{"link":"https://www.instagram.com/","title":"Instagram"},{"link":"https://linkedin.com","title":"Linkedin"}]}');
+module.exports = JSON.parse('{"settings":{"siteName":"DSK","preloader":{"image":"/images/update_logo.png","alt":"logo"},"formspreeURL":"https://formspree.io/f/your_api_key","mailchimp":{"url":"","key":""}},"header":{"logo":{"image":"/images/update_logo.png","alt":"logo"},"menu":[{"label":"Home","link":"/","children":[]},{"label":"About","link":"/about","children":[]},{"label":"Contact","link":"/contact","children":0}]},"footer":{"logo":{"image":"/images/update_logo.png","alt":"logo"},"info":{"address":"5974 SW 44th Street, Davie, FL 33317","tel":"954 651 0449","email":"dannick@dskconst.com"},"copy":"DSK Construction Corp.  © 2023 All Rights Reserved"},"social":[{"link":"https://facebook.com","title":"Facebook"},{"link":"https://www.instagram.com/","title":"Instagram"},{"link":"https://linkedin.com","title":"Linkedin"}]}');
 
 /***/ })
 
