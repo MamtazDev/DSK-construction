@@ -5,7 +5,7 @@
     "link": "/contact",
     "bg_image": "/DSK_images/renovation.jpeg",
     "image_circle_text": {
-        "url": "/img/circle-text.png",
+        "url": "/images/circle-contact.svg",
         "alt": "Circle Text"
     }
 }
