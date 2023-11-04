@@ -1,30 +1,37 @@
 import dynamic from "next/dynamic";
 
 import Layouts from "@layouts/Layouts";
-
 import PageBanner from "@components/PageBanner";
-import CountersSection from "@components/sections/Counters";
 import RenovationSection from "@components/sections/Renovation";
+import { useState } from "react";
 
-const TeamSlider = dynamic(() => import("@components/sliders/Team"), {
-  ssr: false,
-});
-const PartnersSlider = dynamic(() => import("@components/sliders/Partners"), {
-  ssr: false,
-});
-const TestimonialSlider = dynamic(
-  () => import("@components/sliders/Testimonial"),
-  { ssr: false }
-);
+
 
 const About = () => {
+
+  const accessToken = "IGQWRPUDFCNkhENHlHQWpmX2pwVUlHZAGZA6Mi1HMFY5SFNlYUpsQjUtUV9OcFlOY0ZAwTkptZAk1jMG9xVTB3QXVyMmw5UEtEc0ptcGpfX016TC11YUIySG1fRGgwcjJuXzQxUWpOTzkzUkxKYXJuZAS1fb0N0Q29va0EZD";
+  const userId = "6697119563742629";
+  const mediaUrl = `https://graph.instagram.com/v13.0/${userId}/media?access_token=${accessToken}&fields=id,media_url,caption`;
+  const [posts, setPosts] = useState([])
+  fetch(mediaUrl)
+    .then((response) => response.json())
+    .then((mediaData) => {
+      if (mediaData.data) {
+        const posts = mediaData.data;
+        console.log(posts)
+        setPosts(posts)
+      }
+    })
+    .catch((mediaError) => {
+      console.warn("Error fetching media:", mediaError);
+    });
+
   return (
     <Layouts>
       <PageBanner
         pageTitle={"About Us"}
         pageDesc={"our values and vaulted us to the top of our industry."}
       />
-
       {/* About-First Start */}
       <section className="gap about-first">
         <div className="container">
@@ -164,49 +171,29 @@ const About = () => {
             </div>
           </div>
         </div>
-      </section>
-      {/*About How It Works End */}
 
-      {/*About Key Benefits Start */}
-      {/* <section className="gap about-key-benefits">
+        {/* instaposts */}
         <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-6" >
-              <div className="data">
-                <figure>
-                  <img className="w-100" src="/DSK_images/service2.jpeg" alt="About key Benefits" />
-                </figure>
+          <div className="row g-0">
+            {posts.map((post) => (
+              <div className="col-lg-3 col-md-6 col-sm-12">
+                <div className="plans">
+
+                  {/* <img src={post.} > */}
+                </div>
               </div>
-            </div>
-            <div className="col-lg-6" >
-              <div className="data">
-                <h2>Key Benefits</h2>
-                <ul>
-                  <li>
-                    <i className="fa-solid fa-check" />
-                    <p>Labor expenses are a common target for cost reduction measures in the construction industry</p>
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-check" />
-                    <p> A good material management system includes proper communication, scheduling,  and tracking tools.</p>
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-check" />
-                    <p>Faster supplies can be used upon delivery to a construction site, the better.</p>
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-check" />
-                    <p>Effective material management systems not only ensure that materials are in the right place</p>
-                  </li>
-                </ul>
-              </div>
-            </div>
+            ))
+            }
+
           </div>
         </div>
-      </section> */}
-      {/*About Key Benefits End */}
 
-      {/* <TeamSlider noTop /> */}
+
+      </section>
+
+
+
+      {/*About How It Works End */}
 
       <RenovationSection />
 
