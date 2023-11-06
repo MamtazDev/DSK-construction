@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 
 const About = () => {
 
-  const accessToken = "IGQWRNUWJJU1JtSTk4NzJOVlpZAWHpJNEF1ZADctbml6SVcya1BoN2RxVTMxdmJPNFFnZAFYyOHRBQjIxcDRxbjJlYkluTmhtTkRFR3BiMm9iM3dwWlhOTGc2d1E0Uk14U0hxOWQ3dUswNTVzVHZAfZAWZAnd2FRdDZA5TlkZD";
+  const accessToken = "IGQWRNR0t1VTJDZAG5MMm82SVZADamJHbUtFOU93dEdNTnlEd1ZAfNC1kODFKcjlST3VQOTloc1gyMDhWbG1iRkVZARTRTblhUei04X0lZALU5nVk9OTUZAIc2FtMTBVVlRrY21uWGl4eEUxQ3JHVW5wMVgwRVVqdDRSWnMZD";
   const userId = "6697119563742629";
   const mediaUrl = `https://graph.instagram.com/v13.0/${userId}/media?access_token=${accessToken}&fields=id,media_url,caption`;
   const [posts, setPosts] = useState([])
