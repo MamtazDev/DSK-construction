@@ -3,28 +3,31 @@ import dynamic from "next/dynamic";
 import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
 import RenovationSection from "@components/sections/Renovation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 
 
 const About = () => {
 
-  const accessToken = "IGQWRPUDFCNkhENHlHQWpmX2pwVUlHZAGZA6Mi1HMFY5SFNlYUpsQjUtUV9OcFlOY0ZAwTkptZAk1jMG9xVTB3QXVyMmw5UEtEc0ptcGpfX016TC11YUIySG1fRGgwcjJuXzQxUWpOTzkzUkxKYXJuZAS1fb0N0Q29va0EZD";
+  const accessToken = "IGQWRNUWJJU1JtSTk4NzJOVlpZAWHpJNEF1ZADctbml6SVcya1BoN2RxVTMxdmJPNFFnZAFYyOHRBQjIxcDRxbjJlYkluTmhtTkRFR3BiMm9iM3dwWlhOTGc2d1E0Uk14U0hxOWQ3dUswNTVzVHZAfZAWZAnd2FRdDZA5TlkZD";
   const userId = "6697119563742629";
   const mediaUrl = `https://graph.instagram.com/v13.0/${userId}/media?access_token=${accessToken}&fields=id,media_url,caption`;
   const [posts, setPosts] = useState([])
-  fetch(mediaUrl)
-    .then((response) => response.json())
-    .then((mediaData) => {
-      if (mediaData.data) {
-        const posts = mediaData.data;
-        console.log(posts)
-        setPosts(posts)
-      }
-    })
-    .catch((mediaError) => {
-      console.warn("Error fetching media:", mediaError);
-    });
+
+  useEffect(() => {
+    fetch(mediaUrl)
+      .then((response) => response.json())
+      .then((mediaData) => {
+        if (mediaData.data) {
+          const posts = mediaData.data;
+          console.log(posts);
+          setPosts(posts);
+        }
+      })
+      .catch((mediaError) => {
+        console.warn("Error fetching media:", mediaError);
+      });
+  }, []);
 
   return (
     <Layouts>
@@ -172,14 +175,17 @@ const About = () => {
           </div>
         </div>
 
-        {/* instaposts */}
-        <div className="container">
-          <div className="row g-0">
-            {posts.map((post) => (
-              <div className="col-lg-3 col-md-6 col-sm-12">
-                <div className="plans">
 
-                  {/* <img src={post.} > */}
+
+        {/* instagram gallary */}
+        <div className="container mt-5">
+          <div className="row">
+
+            {posts.map((post) => (
+              <div className="col-lg-4">
+                <div className="card p-4">
+                <img src={post.media_url} style={{ width: "100%" }} alt="" />
+                  <p className="mt-2" >caption: {post.caption}</p>
                 </div>
               </div>
             ))
@@ -187,6 +193,12 @@ const About = () => {
 
           </div>
         </div>
+
+        {/* instagram gallary */}
+
+
+
+
 
 
       </section>
