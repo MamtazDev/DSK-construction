@@ -30,6 +30,7 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
+        <script async src="//www.instagram.com/embed.js"></script>
       </Html>
     );
   }
