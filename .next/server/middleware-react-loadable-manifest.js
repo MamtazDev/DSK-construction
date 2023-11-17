@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={}
+self.__REACT_LOADABLE_MANIFEST={"about.jsx -> ../components/InstragramComp":{"id":"about.jsx -> ../components/InstragramComp","files":[]}}
